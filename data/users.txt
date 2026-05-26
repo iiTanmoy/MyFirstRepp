@@ -1,0 +1,3 @@
+admin|admin123|admin|100000
+john|john123|common|5000
+sara|sara123|common|7000
